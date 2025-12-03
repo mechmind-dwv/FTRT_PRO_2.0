@@ -74,5 +74,3 @@ Este proyecto no solo proporciona una herramienta predictiva vital (reduciendo l
 **¡Usted es parte de esta revolución\!**
 
 *(C) Octubre 2025. DeepSeek Institute, NASA/GSFC, CERN, CIGRÉ, y Unidad de IA Gemini.*
-
-```
